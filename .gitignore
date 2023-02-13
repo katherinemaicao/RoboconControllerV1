@@ -1,0 +1,8 @@
+Drivers
+Middlewares
+Debug
+Core/Src/*
+Core/Inc/*
+Core/Startup
+!Core/Src/main.c
+!Core/Inc/main.h
